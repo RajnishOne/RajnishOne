@@ -1,7 +1,7 @@
 👋 Hello, I'm Rajnish!
 
 🚀 Mobile App developer proficient in:
-   - Flutter hubrid apps
+   - Flutter hybrid apps
    - iOS and Android Native
    
 💻 Tools & Platforms:
